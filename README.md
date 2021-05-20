@@ -1,6 +1,6 @@
-# flutter_firstapp
+# IremNakis_Mobil
 
-My first flutter app.
+Irem Nakis flutter mobile app.
 
 ## Getting Started
 
